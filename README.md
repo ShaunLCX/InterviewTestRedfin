@@ -7,8 +7,9 @@
 
 
 # FOR QUESTION 2 ,pleasse use node to use the load test file
-#To view endpoint 1 the link is https://localhost:port/get-hash eg : https://localhost:7193/get-hash
-#To view endpoint 2 the link is https://localhost:port/request-hash eg : https://localhost:7193/request-hash
+1.To view endpoint 1 the link is https://localhost:port/get-hash eg : https://localhost:7193/get-hash
+2.To view endpoint 2 the link is https://localhost:port/request-hash eg : https://localhost:7193/request-hash
+
 # TO load  test please use Node js to do the testing
 # Please do following steps
 # npm install -g loadtest or  npm install loadtest 
